@@ -25,6 +25,7 @@
         "./lib/*"
       ]
     },
+    "types": ["node"],
     "plugins": [
       {
         "name": "next"
